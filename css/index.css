@@ -51,14 +51,14 @@
     margin-top: 100px;
 }
 .google{
-    background-image: url(../../素材/Google_Play.png);
+    background-image: url(../img/Google_Play.png);
     background-size: 100%;
     background-repeat: no-repeat;
     width: 170px;
     height: 65px;
 }
 .app{
-    background-image: url(../../素材/App_Store.png);
+    background-image: url(../img/App_Store.png);
     background-repeat: no-repeat;
     background-size: 100%;
     margin-top: 6.5px;
@@ -85,7 +85,7 @@
     justify-content: center;
     gap: 150px;
     margin-top: 200px;
-    background-image: url(../../素材/背景２.png);
+    background-image: url(../img/背景２.png);
     background-repeat: no-repeat;
     background-size: 100%;
     background-attachment: fixed;
@@ -104,7 +104,7 @@
 }
 
 .main{
-    background-image: url(../../素材/背景3.png);
+    background-image: url(../img/背景3.png);
     background-repeat: no-repeat;
     background-size: 100%;
     background-attachment:fixed;
@@ -152,7 +152,7 @@
 
 
 .content{
-    background-image: url(../../素材/背景4.png);
+    background-image: url(../img/背景4.png);
     background-size: 100%;
     background-repeat: no-repeat;
     background-attachment: fixed;
